@@ -1,5 +1,8 @@
-Welcome to Lumache's documentation!
+Bienvenido a home lab
 ===================================
+
+
+Home lab es un espacio en el que me dedicaré a explicar los diferentes proyectos que he ido realizando en mi casa,centrado en la domótica y electricidad.
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -18,5 +21,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Quién soy
+   Luces de jardín
+   Servidor
